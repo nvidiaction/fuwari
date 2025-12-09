@@ -2,7 +2,7 @@
 title: 2025年Steam新游戏推荐：年度必玩大作大盘点
 published: 2025-12-09T00:00:00Z
 description: 详细介绍2025年发售的Steam新游戏，包括开放世界、动作冒险、角色扮演、策略等多种类型，为你推荐年度必玩大作
-image: ''
+image: 'https://www.loliapi.com/acg/'
 tags: ["游戏", "Steam", "2025", "新游戏"]
 category: 游戏推荐
 draft: false 

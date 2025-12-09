@@ -2,7 +2,7 @@
 title: 2025年10月动漫新番推荐：秋季档必看作品大盘点
 published: 2025-12-09T00:00:00Z
 description: 详细介绍2025年10月秋季档动漫新番，包括热血、冒险、喜剧、恋爱等多种类型，为你推荐值得一看的优秀作品
-image: ''
+image: 'https://www.loliapi.com/acg/'
 tags: [动漫, 新番, 秋季档, "2025"]
 category: 动漫推荐
 draft: false 

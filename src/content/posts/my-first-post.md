@@ -2,7 +2,7 @@
 title: 我的第一篇博客文章
 published: 2025-12-09
 description: 介绍使用 Fuwari 模板创建博客的经历和计划
-image: ''
+image: 'https://www.loliapi.com/acg/'
 tags: [博客, Fuwari, 前端开发]
 category: 博客日志
 draft: false 

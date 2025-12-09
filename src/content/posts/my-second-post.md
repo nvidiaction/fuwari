@@ -2,7 +2,7 @@
 title: Astro 框架入门指南
 published: 2025-12-09
 description: 介绍 Astro 框架的基本概念、核心特性和使用方法
-image: ''
+image: 'https://www.loliapi.com/acg/'
 tags: [Astro, 前端框架, 岛屿架构]
 category: 技术分享
 draft: false 

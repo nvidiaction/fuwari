@@ -1,0 +1,40 @@
+{
+  "friends": [
+    {
+      "name": "博客",
+      "url": "https://blog.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "个人博客网站"
+    },
+    {
+      "name": "网盘",
+      "url": "https://pan.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "云存储服务"
+    },
+    {
+      "name": "音乐",
+      "url": "https://music.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "音乐播放平台"
+    },
+    {
+      "name": "飞牛",
+      "url": "https://fnos.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "飞牛系统"
+    },
+    {
+      "name": "订阅",
+      "url": "https://cfnew.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "订阅服务"
+    },
+    {
+      "name": "站点监测",
+      "url": "https://uptime.177418.xyz/",
+      "avatar": "https://www.loliapi.com/acg/",
+      "description": "网站状态监测"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 title: 2025年编程AI实力排行榜：主流工具全面对比
 published: 2025-12-09T00:00:00Z
 description: 详细介绍2025年主流编程AI工具的特点、优势，并根据实际开发能力进行排名对比
-image: ''
+image: 'https://www.loliapi.com/acg/'
 tags: ["AI", "编程", "开发工具", "技术趋势"]
 category: 技术分享
 draft: false 
