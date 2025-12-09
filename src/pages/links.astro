@@ -1,0 +1,53 @@
+---
+import I18nKey from "../i18n/i18nKey";
+import { i18n } from "../i18n/translation";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+---
+<MainGridLayout title="友链" description="友情链接">
+    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            <div class="prose dark:prose-invert prose-base !max-w-none">
+                <h1 class="text-2xl font-bold mb-6">友链</h1>
+                
+                <p class="mb-6">这是我的友情链接页面，欢迎与我交换友链！</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <!-- 示例友链 -->
+                    <div class="card-base p-4 rounded-lg transition hover:shadow-md">
+                        <div class="flex items-center gap-3">
+                            <div class="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center">
+                                <span class="font-bold">A</span>
+                            </div>
+                            <div class="flex-1">
+                                <h3 class="font-bold">示例博客</h3>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">这是一个示例博客的描述</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="card-base p-4 rounded-lg transition hover:shadow-md">
+                        <div class="flex items-center gap-3">
+                            <div class="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center">
+                                <span class="font-bold">B</span>
+                            </div>
+                            <div class="flex-1">
+                                <h3 class="font-bold">另一个博客</h3>
+                                <p class="text-sm text-gray-500 dark:text-gray-400">这是另一个示例博客的描述</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-8 p-4 bg-gray-100 dark:bg-gray-800 rounded-lg">
+                    <h2 class="font-bold mb-3">申请友链</h2>
+                    <p class="mb-2">如果您想与我交换友链，请通过以下方式联系我：</p>
+                    <ul class="list-disc pl-5 space-y-1">
+                        <li>邮箱：1774189780@qq.com</li>
+                        <li>GitHub：<a href="https://github.com/nvidiaction" class="text-blue-500 dark:text-blue-400 hover:underline">nvidiaction</a></li>
+                        <li>X (Twitter)：<a href="https://x.com/nvidiaction" class="text-blue-500 dark:text-blue-400 hover:underline">@nvidiaction</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</MainGridLayout>

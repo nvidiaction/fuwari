@@ -1,9 +1,54 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好！我是 nvidiaction，一个热爱技术和分享的前端开发者。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 👨‍💻 个人介绍
+
+我是一名前端开发者，专注于创建优雅、高效的 Web 应用。我对新兴技术充满热情，尤其是前端框架和工具链。
+
+- **GitHub**: [nvidiaction](https://github.com/nvidiaction)
+- **X (Twitter)**: [@nvidiaction](https://x.com/nvidiaction)
+- **Bilibili**: [nvidiaction](https://space.bilibili.com/646378987)
+- **邮箱**: [1774189780@qq.com](mailto:1774189780@qq.com)
+
+## 🎯 兴趣爱好
+
+- **前端开发**: 探索最新的前端技术和框架，如 Astro、React、Vue 等
+- **开源贡献**: 参与开源项目，分享自己的代码和经验
+- **动漫爱好者**: 喜欢看各种类型的动漫，尤其是热血、冒险和治愈系
+- **游戏玩家**: 偶尔会玩一些单机游戏和独立游戏
+- **摄影**: 记录生活中的美好瞬间
+
+## 💻 技术栈
+
+- **前端框架**: Astro, React, Vue
+- **构建工具**: Vite, Webpack
+- **样式方案**: Tailwind CSS, CSS Modules, SCSS
+- **状态管理**: Redux, Vuex, Pinia
+- **后端技术**: Node.js, Express
+- **数据库**: MongoDB, MySQL
+- **版本控制**: Git, GitHub
+
+## 📝 博客目的
+
+创建这个博客的主要目的是：
+
+1. **记录学习过程**: 分享我在学习新技术时的心得体会和笔记
+2. **技术分享**: 分享前端开发中的最佳实践和解决方案
+3. **经验总结**: 总结项目开发中的经验教训
+4. **交流互动**: 与其他开发者交流，共同进步
+5. **个人成长**: 通过写作加深对技术的理解和掌握
+
+## 📚 近期计划
+
+- 深入学习 Astro 框架的高级特性
+- 探索 WebAssembly 在前端的应用
+- 学习性能优化和无障碍设计
+- 分享更多关于前端开发的实战经验
+- 参与更多开源项目
+
+## 🌟 人生格言
+
+"永远相信美好的事情即将发生"
+
+感谢你访问我的博客！如果我的内容对你有所帮助，欢迎关注我的社交媒体账号，与我交流互动。

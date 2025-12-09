@@ -151,6 +151,10 @@ const bannerOffset =
 	<body class=" min-h-screen transition " class:list={[{"lg:is-home": isHomePage, "enable-banner": enableBanner}]}
 		  data-overlayscrollbars-initialize
 	>
+		<!-- Fullscreen background image -->
+		<div id="fullscreen-background" class="fixed inset-0 z-[-1] bg-cover bg-center bg-no-repeat"
+		     style="background-image: url('https://img.177418.xyz/file/1765122294363_photo_2025-12-07_23-43-00.jpg')"></div>
+		
 		<ConfigCarrier></ConfigCarrier>
 		<slot />
 
@@ -191,6 +195,45 @@ const bannerOffset =
 	.navbar-hidden {
 		@apply opacity-0 -translate-y-16
 	}
+}
+
+/* Fullscreen background image styles */
+#fullscreen-background {
+	/* Ensure the background covers the entire viewport */
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: -1;
+	
+	/* Cover the entire area without stretching */
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+	/* Add a subtle blur to reduce distraction */
+	filter: blur(0px);
+	
+	/* Ensure it doesn't interfere with scrolling */
+	pointer-events: none;
+}
+
+/* Add a semi-transparent overlay to improve text readability */
+body {
+	position: relative;
+}
+
+body::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: -1;
+	background-color: rgba(0, 0, 0, 0.3); /* Adjust the opacity to improve text readability */
+	pointer-events: none;
 }
 </style>
 
