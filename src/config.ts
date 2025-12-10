@@ -1,5 +1,6 @@
 import type {
 	ExpressiveCodeConfig,
+	GiscusConfig,
 	LicenseConfig,
 	NavBarConfig,
 	ProfileConfig,
@@ -93,4 +94,17 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Note: Some styles (such as background color) are being overridden, see the astro.config.mjs file.
 	// Please select a dark theme, as this blog theme currently only supports dark background color
 	theme: "github-dark",
+};
+
+export const giscusConfig: GiscusConfig = {
+	enable: true, // 设置为 true 启用 Giscus 评论系统
+	repo: "nvidiaction/fuwari", // GitHub 仓库，格式：username/repo
+	repoId: "R_kgDOQlCzNA", // 仓库 ID
+	category: "Announcements", // 讨论分类
+	categoryId: "DIC_kwDOQlCzNM4Czm70", // 分类 ID
+	mapping: "pathname", // 推荐使用 pathname
+	reactionsEnabled: true, // 启用表情反应
+	emitMetadata: false, // 不发送元数据
+	inputPosition: "bottom", // 输入框位置
+	lang: "zh-CN", // 语言
 };
