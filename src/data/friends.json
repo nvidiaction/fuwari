@@ -41,6 +41,18 @@
 			"url": "https://video.177418.xyz/",
 			"avatar": "https://www.loliapi.com/acg/pp/",
 			"description": "视频服务"
+		},
+		{
+			"name": "夸克转存",
+			"url": "https://quark.177418.xyz/",
+			"avatar": "https://www.loliapi.com/acg/pp/",
+			"description": "夸克转存服务"
+		},
+		{
+			"name": "gemini api",
+			"url": "https://geminiapi.177418.xyz/",
+			"avatar": "https://www.loliapi.com/acg/pp/",
+			"description": "Gemini API 控制面板"
 		}
 	]
 }
