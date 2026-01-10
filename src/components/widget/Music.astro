@@ -1,0 +1,18 @@
+---
+import LocalPlayer from './LocalPlayer.svelte';
+
+const audioList = [
+  {
+    name: 'Body On My - Loud Luxury, Brando, Pitbull, Nicky Jam',
+    src: '/music/Loud_Luxury,_Brando,_Pitbull,_Nicky_Jam_-_Body_On_My.mp3',
+    cover: '/music/120465627_p1.jpg'
+  },
+  {
+    name: 'I don\'t wanna see u anymore - NINEONE#乃万',
+    src: '/music/I_don\'t_wanna_see_u_anymore.mp3',
+    cover: '/music/133360037_p0.jpg'
+  }
+];
+---
+
+<LocalPlayer client:load {audioList} />

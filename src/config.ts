@@ -54,6 +54,11 @@ export const navBarConfig: NavBarConfig = {
 			url: "/links/",
 			external: false,
 		},
+		{
+			name: "图库",
+			url: "/gallery/",
+			external: false,
+		},
 	],
 };
 
