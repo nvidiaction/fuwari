@@ -32,12 +32,12 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-			src: "https://img.177418.xyz/file/1765120278219_99700664_p0.png",
+			src: "/images/favicon-avatar.png",
 			theme: "light",
 			sizes: "32x32",
 		},
 		{
-			src: "https://img.177418.xyz/file/1765120278219_99700664_p0.png",
+			src: "/images/favicon-avatar.png",
 			theme: "dark",
 			sizes: "32x32",
 		},
@@ -63,7 +63,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://img.177418.xyz/file/1765120278219_99700664_p0.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'n	name: "nvidiaction",
+	avatar: "/images/favicon-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'n	name: "nvidiaction",
 	bio: "永远相信美好的事情即将发生",
 	links: [
 		{
